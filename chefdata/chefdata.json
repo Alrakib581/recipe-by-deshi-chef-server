@@ -1,0 +1,196 @@
+[
+  {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Chef_Ahmed_Hossain.jpg",
+    "name": "Chef Ahmed Hossain",
+    "chefrecipes": [
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4.4",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      },
+      {
+        "recipe1name": "Cholar Dal",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"5",
+        "cookmethod": "is the niramish or vegetarian version of the Bengali chholar (or chholar) dal, prepared without onions or garlic. Hing (asafoetesn’t get more versatile than this. Master this Bengali chholar dal recipe and it is sure to become the secret." ,
+        "recpelogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVPWQMjka5tSB5YhPlbPfMGjHovNo0ysG4Xw&usqp=CAU"
+      },
+      {
+        "recipe1name": "dim bhaja",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4.1",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      }
+    ],
+    "bio": "Ahmed Hossain, a top-ranked chef in our country, changed the taboo that cooking is only for females. He represented our country's traditional food in different cooking shows and recognised Bengali cuisine internationally.In 2006, he joined Dhaka Regency in the post of kitchen organiser. After working for 6 months, he became the main Chef there. His dedication to cooking inspired the young generation of our country. Most importantly, he will be remembered for inspiring this career mainstream in our country.",
+    "experience": "20 years of experience in chef.",
+    "numberOfRecipe": "100 plus",
+    "likes": "10k",
+    "id": "1"
+  },
+  {
+    "photo": "https://prod-media-eng.dhakatribune.com/uploads/2021/01/unnamed-1611657230010.jpg",
+    "name": "Chef Fakruddin",
+    "chefrecipes": [
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      },
+      {
+        "recipe1name": "cholar dal",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4.5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      },
+      {
+        "recipe1name": "Dim bhaja",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      }
+    ],
+    "bio": "You must have heard about Fakruddin's Biriyani and may also have tasted the delicious biriyani of Haji Fakruddin. He is also one of the top chefs in our country with his unique recipes.  Haji Fakruddin moved to Bangladesh in 1966 as he was facing severe financial issues. So he decided to work for his financial stability and started to learn cooking from Muslim Miah, who was the chief chef of Indian Nawabs.Working dedicatedly, he achieved mastery in the cooking field and became familiar with Mughal cuisine. Later, Haji Fakruddin shared the secrets of his cooking with his sons.",
+    "experience": "20 years of experience in chef.",
+    "numberOfRecipe": "100 plus",
+    "likes": "10k",
+    "id": "2"
+  },
+  {
+    "photo": "https://alchetron.com/cdn/tommy-miah-30e65d8b-336f-479e-944e-7dba8cedc6d-resize-750.jpeg",
+    "name": "Tommy Miah",
+    "chefrecipes": [
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4.5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      },
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      },
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4.5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      }
+    ],
+    "bio": "Tommy Miah is a British celebrity chef born in a small village in the Sylhet district. He went to England at the age of ten. The passionate chef opened a restaurant at the age of 17 only. With the help of mobile software, we can get all his delicious recipes in our country. His cooking show 'Tommy Miah'r Rannaghar' became widely popular and inspired hundreds of cooking shows in the coming days.",
+    "experience": "20 years of experience in chef.",
+    "numberOfRecipe": "100 plus",
+    "likes": "10k",
+    "id": "3"
+  },
+  {
+    "photo": "https://i.ytimg.com/vi/laZVdzNm3v0/sddefault.jpg",
+    "name": "Chef Siddiqua Kabir",
+    "chefrecipes": [
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4.5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      },
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      },
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      }
+    ],
+    "bio": "Siddiqua Kabir was a nutritionist, cooking book writer, cooking artist and a popular cooking show host. In 1965, she started her journey in the cooking field and began her cooking show on the then-Pakistani TV channel. She has authored many popular cooking-related books.In 2009 she got Sheltech Award from the culinary and media business. Before her death in 2012, she became one of the most eminent chefs in Bangladesh. ",
+    "experience": "20 years of experience in chef.",
+    "numberOfRecipe": "100 plus",
+    "likes": "10k",
+    "id": "4"
+  },
+  {
+    "photo": "https://acfederation.org/wp-content/uploads/2021/05/tony-khan.jpg",
+    "name": "Tony Khan",
+    "chefrecipes": [
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4.5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      },
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4.5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      },
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4.5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      }
+    ],
+    "bio": "Culinary expert Tony khan is one of the most famous chefs in our country. In 1998, his fame peaked as he got enlisted as one of the top 10 chefs in the world. Prior to that, he gained the honour of a culinary expert of the year in Papua NiuginiIn 2006, Tony joined Raddison Blu Water Garden and The Westin in 2009 -- two of the most premium hotels in Dhaka.Tony Khan formed his own culinary institute in 2015. There he provides international standard training for new chefs in the hotel industry. He guarantees the taste and ensures health benefits in his recipe. ",
+    "experience": "20 years of experience in chef.",
+    "numberOfRecipe": "100 plus",
+    "likes": "10k",
+    "id": "5"
+  },
+  {
+    "photo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/qtfwrty56vwvg9nc6yh7",
+    "name": "Shelly Nuruzzaman",
+    "chefrecipes": [
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4.5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      },
+      {
+        "recipe1name": "Alu Bhorta",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4.5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      },
+      {
+        "recipe1name": "Biriany",
+        "ingradients": ["Potato", "Onion","green or red chilis","Salt","masterd Oil"],
+        "ratings":"4.5",
+        "cookmethod": "at first you need to boild potato. after potato green chili salt oinion and oil mix all things very carefully. then yor alubhorta ready to eat. its very testy food for lots of Bangladeshy people." ,
+        "recpelogo": "https://veganbangla.files.wordpress.com/2020/06/fullsizeoutput_ba2.jpeg?w=900"
+      }
+    ],
+    "bio": "Shelly's family moved to Britain in the 1960s, but they were always in touch with Bengali cuisine. She was interested to learn the magic of cooking. His father started a restaurant with Bengali cuisine in Britain.From there, her cooking journey started as she got the chance to learn to cook. The experiment-loving chef has a knack for fusions and has blended many British recipes with Bengali ones.",
+    "experience": "20 years of experience in chef.",
+    "numberOfRecipe": "100 plus",
+    "likes": "10k",
+    "id": "6"
+  }
+  
+
+]
