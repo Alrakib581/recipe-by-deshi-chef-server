@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Tell us the differences between uncontrolled and controlled components.",
+      "details": "When dealing with form data in React, you can use either controlled components or uncontrolled components. According to the React docs, a controlled component is the recommended way to go for most cases.“In most cases, we recommend using controlled components to implement forms. In a controlled component, form data is handled by a React component. The alternative is uncontrolled components, where form data is handled by the DOM itself.”",
+      "id": 1
+    },
+    {
+      "title": "How to validate React props using PropTypes",
+      "details": "React PropTypes are a good way to help you catching bugs by validating data types of values passed through props. They also offer possibilities to flag props as mandatory or set default values. They provide a great benefit with little effort.If you want to pass any value to a component, you won’t get around props. They are the component’s interface to get data passed down the component tree. When your application got bigger and more complex, you or one of your colleagues may want to reuse some existing components. Maybe you wrote the component a long time ago, so you have to find out, how to use it and which props are required.",
+      "id": 2
+    },
+    {
+      "title": "Tell us the difference between nodejs and express js.",
+      "details": "Node.js is a run-time environment created to run JavaScript on tserverside. Express.js is a framework for Node.js, so in order to use it, you will use Node.js anyway. Express.js will help you organize your application better. It provides many features which will speed up the development for example mechanism for middlewares, more efficient REST support or robust routing. ",
+      "id": 3
+    },
+    {
+      "title": "What is a custom hook, and why will you create a custom hook?",
+      "details": "Custom React JS hooks offer reusability as when a custom hook is created, it can be reused easily, which makes the code cleaner and reduces the time to write the code. It also enhances the rendering speed of the code as a custom hook does not need to be rendered again and again while rendering the whole code ",
+      "id": 4
+    }
+    
+  ]
